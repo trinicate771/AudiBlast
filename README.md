@@ -1,7 +1,30 @@
 # AudiBlast
- rhythm shooter game with roguelike elements and a highly replayable gameplay loop
+>[!NOTE]
+>**This repository contains documentation for this project.**
 
 >[!IMPORTANT]
->lah blah blg
+>*This project is in its early stage; This project mainly runs on __<ins>Unity Engine</ins>__.*
 
-# new heading
+## Planned Features
+- [ ] Shop
+- [ ] Style Points
+- [ ] Single-Use Boosts
+- [ ] Objectives
+- [ ] Currency
+- [ ] In-Game Weapons
+- [ ] Items
+- [ ] Intermission Floors
+- [ ] Ai Enemies
+- [ ] Inventory
+- [ ] Save states
+- [ ] Custom music from YouTube links
+- [ ] Custom music from audio files
+- [ ] Active BPM Hybridization
+- [ ] Movement System
+
+<details>
+<summary>Reference Material</summary>
+ogiyoiygbhog
+ uggyioil
+ huou
+</details>
