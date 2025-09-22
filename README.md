@@ -23,9 +23,9 @@
 - [ ] Movement System
 
 <details>
-<summary>Reference Material</summary>
+<summary>Resources</summary>
 
-__<ins>Unity Documentation</ins>
+__<ins>Unity Documentation</ins>__
 >![bb](https://engine.needle.tools/docs/imgs/unity-logo.webp)
 
  
